@@ -21,5 +21,7 @@ public class ArticleVO {
 	private String designation;
 
 	private double price;
+	
+	private String img;
 
 }
